@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="facenet-pytorch" />
+            <item index="1" class="java.lang.String" itemvalue="acappella-info" />
+            <item index="2" class="java.lang.String" itemvalue="TorchTree-nightly" />
+            <item index="3" class="java.lang.String" itemvalue="flerken-nightly" />
+            <item index="4" class="java.lang.String" itemvalue="face-alignment" />
+            <item index="5" class="java.lang.String" itemvalue="torch" />
+            <item index="6" class="java.lang.String" itemvalue="torchaudio" />
+            <item index="7" class="java.lang.String" itemvalue="dlib" />
+            <item index="8" class="java.lang.String" itemvalue="torch-mir-eval" />
+            <item index="9" class="java.lang.String" itemvalue="torchsummary" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
