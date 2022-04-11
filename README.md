@@ -25,4 +25,4 @@ sudo systemctl restart docker
 
 ## Building the image
 
-`docker build -t yourusername/av-pytorch:-1.10.0-cuda11.3-runtime .`  
+`docker build -t yourusername/av-pytorch:1.10.0-cuda11.3-runtime .`  
