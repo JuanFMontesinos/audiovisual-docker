@@ -1,6 +1,18 @@
+einops
 opencv-python-headless
 imageio-ffmpeg
 scikit-video
 matplotlib
 scipy
+fire
+tqdm
+packaging
 librosa
+pesq
+mir_eval
+pystoi
+PyYAML
+fsspec[http]>=2021.05.0, !=2021.06.0
+tensorboard
+pyDeprecate>=0.3.1, <0.4.0
+typing-extensions
