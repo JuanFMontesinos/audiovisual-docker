@@ -3,7 +3,9 @@
 Docker container with interesting tools to work with audio-visual data in pytorch
 
 To learn how to install Docker please
-visit [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+visit [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)  
+A nice tutorial on docker can be found [https://docker-curriculum.com/](https://docker-curriculum.com/)  
+
 
 ## Nvidia Docker
 
