@@ -26,3 +26,6 @@ sudo systemctl restart docker
 ## Building the image
 
 `docker build -t yourusername/av-pytorch:1.10.0-cuda11.3-runtime .`  
+
+## Running the image as interactive shell  
+`docker run --gpus all --rm -ti -it --ipc=host jfmontgar/av-pytorch:1.10.0-cuda11.3-runtime`
