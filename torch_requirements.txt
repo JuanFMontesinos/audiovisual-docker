@@ -2,8 +2,8 @@ numpy
 flake8
 pytest
 torchmetrics>=0.4.1
-pytorch-lightning
-torchaudio===0.10.0+cu113
+torchaudio==0.13.1+cu116
+lightning
 torch-mir-eval
 torch_stoi
 

@@ -10,7 +10,7 @@ import librosa
 print('Librosa ok')
 import matplotlib.pyplot as plt
 print('Matplotlib ok')
-import pytorch_lightning
+import lightning
 print('Pytorch_lightning ok')
 import torch_stoi
 print('Torch_stoi ok')
